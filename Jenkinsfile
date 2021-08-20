@@ -10,7 +10,7 @@ pipeline {
             steps {
                 //
                 sh '''
-                cd helloword/src/main/java/
+                cd src/main/java/
                 javac com/company/helloword/Main.java
                 '''
             }
@@ -19,7 +19,7 @@ pipeline {
             steps {
                 //
                 sh '''
-                cd helloword/src/main/java/
+                cd src/main/java/
                 java com/company/helloword/Main
                  '''
             }
