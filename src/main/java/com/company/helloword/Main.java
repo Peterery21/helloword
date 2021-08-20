@@ -16,7 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("donc c'est toi qui m'a fait chié hier");
+        System.out.println("donc c'est toi qui m'a fait chier hier");
     }
     
 }
